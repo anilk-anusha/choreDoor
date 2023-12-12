@@ -1,8 +1,8 @@
-# choreDoor
+# Chore Door
 
 ## Overview
 
-This project is a part of the LEARN JQUERY course from Codecademy.
+This project is a part of the "Building Interactive JavaScript Websites" course from Codecademy.
 
 ## Table of Contents
 

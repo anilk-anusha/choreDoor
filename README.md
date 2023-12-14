@@ -41,7 +41,7 @@ This project is a part of the "Building Interactive JavaScript Websites" course 
 
 ## Setup
 
-Set up locally as part of a coding exercise. 
+NA - The project is part of a Codecademy course and doesn't require additional setup.
 
 ## Status
 

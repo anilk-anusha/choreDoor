@@ -20,10 +20,10 @@ This project is a part of the "Building Interactive JavaScript Websites" course 
 
 ## To-do List
 
-- [ ] Checking Doors
-- [ ] Writing Play and Game Over Logic
-- [ ] Choosing a Random Chore Door
-- [ ] Starting the Game
+- [x] Checking Doors
+- [x] Writing Play and Game Over Logic
+- [x] Choosing a Random Chore Door
+- [x] Starting the Game
 
 ## Screenshots
 

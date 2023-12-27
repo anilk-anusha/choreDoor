@@ -48,4 +48,5 @@ NA - The project is part of a Codecademy course and doesn't require additional s
 Project Status: Completed
 
 ## References
-https://www.youtube.com/watch?v=0SSMeWJVyBI
+- https://www.youtube.com/watch?v=0SSMeWJVyBI
+- [Codepen](https://codepen.io/anilk-anusha/full/mdoyvEg)
